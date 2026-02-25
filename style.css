@@ -6,7 +6,7 @@ body, html {
     justify-content: center;
     align-items: center;
     background-color: black;
-    color: green;
+    color: white;
     font-family: Consolas;
 }
 
@@ -20,7 +20,7 @@ h1 {
     font-size: 5rem;
     font-weight: bold;
     text-align: center;
-    animation: glow 5s infinite forwards;
+    animation: glow 3s infinite forwards;
 }
 
 #giorno {
@@ -54,3 +54,4 @@ footer {
     100% {opacity: 70%; text-shadow: none;}
 
 }
+
