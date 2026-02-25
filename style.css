@@ -20,7 +20,7 @@ h1 {
     font-size: 5rem;
     font-weight: bold;
     text-align: center;
-    animation: glow 1s infinite forwards ease-in-out;
+    animation: glow 5s infinite forwards;
 }
 
 #giorno {
@@ -52,4 +52,5 @@ footer {
     0% {opacity: 70%; text-shadow: none;}
     50% {opacity: 100%; text-shadow: 0px 0px 20px green;}
     100% {opacity: 70%; text-shadow: none;}
+
 }
